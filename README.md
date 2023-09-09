@@ -2,7 +2,7 @@
 
 ## ﻿API REVIT 2024
   
-External Command  & ribbon menu
+External Command  & Ribbon Menu
 
 Visual Studio 2022 | C# | .NET 4.8
  
