@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name> Create Wall</Name>
+    <Assembly>.\DLLTEST\CreateWall.dll</Assembly>
+    <AddInId>F624E0E8-0ECB-4F07-B07F-FAFE4B86CC6B</AddInId>
+    <FullClassName>CreateBuild.Application</FullClassName>
+    <VendorId>Sgiman Dev</VendorId>
+    <VendorDescription>Sgiman Reseach and Development (SCS RD)</VendorDescription>
+  </AddIn>
+</RevitAddIns>
